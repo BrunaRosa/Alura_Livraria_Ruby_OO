@@ -1,6 +1,6 @@
 <h1> Orientação a Objetos: Melhores técnicas com Ruby</h1>
 
-Esse projeto foi resultado da aula de Orientação a Objetos de Ruby.
+Esse projeto foi resultado da aula de Orientação a Objetos de Ruby, onde criamos um sistema de Livraria com boas práticas de Ruby.
 
 <br>
 <h2>Pré- requisitos</h2>
